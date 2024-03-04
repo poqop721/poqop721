@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 #### `깊이 있는 개발자로 한걸음씩 성장중인 프론트엔드 개발자 입니다!`
 
 > 
-> [📧 이메일 : poqop721@naver.com](mailto:poqop721@naver.com)
+> 📧 이메일 : [poqop721@naver.com](mailto:poqop721@naver.com)
 > 
-> [👾 깃허브 : https://github.com/poqop721](https://github.com/poqop721)
+> 👾 깃허브 : [https://github.com/poqop721](https://github.com/poqop721)
 > 
-> [🧑‍💻블로그 : 전성태의 테크 블로그](https://www.notion.so/b438a0e954ab43368f861891f9f3aa4c?pvs=21)
+> 🧑‍💻블로그 : [전성태의 테크 블로그](https://www.notion.so/b438a0e954ab43368f861891f9f3aa4c?pvs=21)
 >
