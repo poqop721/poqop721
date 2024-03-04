@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Skills : 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=FFFFFF"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=Next.js&logoColor=000000"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat&logo=TypeScript&logoColor=3178C6"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ReactNative-0f0f0f?style=flat&logo=React&logoColor=61DAFB"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-8f8c8c?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Socket.io-ffffff?style=flat&logo=Socket.io&logoColor=000000"/></a>
 <br>
 #### `깊이 있는 개발자로 한걸음씩 성장중인 프론트엔드 개발자 입니다!`
