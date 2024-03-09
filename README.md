@@ -32,7 +32,7 @@
   
 💬 Language : &nbsp;
 <img align=center src="https://img.shields.io/badge/JavaScript-8f8c8c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;
-<img align=center src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
+<img align=center src="https://img.shields.io/badge/TypeScript-e3e3e3?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
 <br>
 
 📚 Library : &nbsp;
@@ -61,7 +61,7 @@
 📮 Tools & Collaborations : &nbsp;
 <img align=center src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>&nbsp;
 <img align=center src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>&nbsp;
-<img align=center src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>&nbsp;
+<img align=center src="https://img.shields.io/badge/Notion-e3e3e3?style=for-the-badge&logo=Notion&logoColor=000000"/>&nbsp;
 <img align=center src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff"/>
 </h4>
 </div>
