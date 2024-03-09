@@ -13,19 +13,13 @@
 
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=poqop721&include_all_commits=false&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poqop721)](https://solved.ac/poqop721/)
+
 
 </div>
 <br><br>
 
 
-### 👨‍💻 Contact 👨‍💻
-<hr>
-<div style="display:flex; flex-direction:row;">
-    <a href="https://successful-penalty-b4d.notion.site/b438a0e954ab43368f861891f9f3aa4c?pvs=4"><img align=center src="https://img.shields.io/badge/Blog-999999?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
-    <a href="mailto:poqop721@naver.com"><img align=center src="https://img.shields.io/badge/Mail-cc55d9?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-</div><br><br>
-
-  
 ### 💻 Tect Stack 💻
 <hr>
 <div>
@@ -67,3 +61,14 @@
 </h4>
 </div>
 </div>
+
+<br><br>
+
+### 👨‍💻 Blog & Contact 👨‍💻
+<hr>
+<div style="display:flex; flex-direction:row;">
+    <a href="https://successful-penalty-b4d.notion.site/b438a0e954ab43368f861891f9f3aa4c?pvs=4"><img align=center src="https://img.shields.io/badge/Blog-999999?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
+    <a href="mailto:poqop721@naver.com"><img align=center src="https://img.shields.io/badge/Mail-cc55d9?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</div>
+
+  
