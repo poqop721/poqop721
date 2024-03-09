@@ -17,12 +17,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=FFFFFF"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=Next.js&logoColor=000000"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat&logo=TypeScript&logoColor=3178C6"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ReactNative-0f0f0f?style=flat&logo=React&logoColor=61DAFB"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-8f8c8c?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Socket.io-ffffff?style=flat&logo=Socket.io&logoColor=000000"/></a>
-#### `깊이 있는 개발자로 한걸음씩 성장중인 프론트엔드 개발자 입니다!`
+#### 깊이 있는 개발자로 한걸음씩 성장중인 프론트엔드 개발자 입니다!
+<br>
 
-📧 이메일 : [poqop721@naver.com](mailto:poqop721@naver.com) <br>
-👾 깃허브 : [https://github.com/poqop721](https://github.com/poqop721)  <br>
-🧑‍💻블로그 : [전성태의 테크 블로그](https://www.notion.so/b438a0e954ab43368f861891f9f3aa4c?pvs=21)<br>
+
+### 👨‍💻 Contact 👨‍💻
+<br>
+
+📧 이메일 : <a href="mailto:poqop721@naver.com" style="color:gray">*poqop721@naver.com*</a> <br>
+🌐 블로그 : <a href="https://www.notion.so/b438a0e954ab43368f861891f9f3aa4c?pvs=21">*전성태의 테크 블로그*</a>
+
+<br>
+<div>
+  
+### 💻 Tect Stack 💻
+<br>
+💬 Language
+<br><br>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-8f8c8c?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat&logo=TypeScript&logoColor=3178C6"/></a>
+<br><br>
+📚 Library & 🛠️ Framework
+<br><br>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=Next.js&logoColor=000000"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ReactNative-48556b?style=flat&logo=React&logoColor=61DAFB"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/👻 Jotai-4f4f4f?style=flat&logo=Jotai&logoColor=ffffff"/></a><br>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Socket.io-575757?style=flat&logo=Socket.io&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=Jinja&logoColor=ffffff"/></a>
+<br><br>
+💾 Database
+<br><br>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/></a>
+<br><br>
+📮 Tools & Collaborations
+<br><br>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=000000"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=ffffff"/></a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=d05567&height=150&section=footer" />
 </div>
