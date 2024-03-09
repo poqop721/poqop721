@@ -6,13 +6,12 @@
 <div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoqop721&count_bg=%23f0a030&title_bg=%23515151&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true"/></a>
   
-#### 깊이 있는 개발자로 한걸음씩 성장중인 프론트엔드 개발자 입니다!
+#### ✊ 깊이 있는 개발자로 한걸음씩 성장중인 프론트엔드 개발자 입니다!
+#### 📝 Currently Woring On : *[전성태의 웹 포트폴리오](https://github.com/poqop721/myWebsite)*
 
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=poqop721&include_all_commits=false&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poqop721)](https://solved.ac/poqop721/)
-
-#### 📝 Currently Woring On : *[전성태의 웹 포트폴리오](https://github.com/poqop721/myWebsite)*
 
 </div>
 <br><br>
