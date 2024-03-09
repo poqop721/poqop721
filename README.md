@@ -9,7 +9,6 @@
 #### ✊ 깊이 있는 개발자로 한걸음씩 성장중인 프론트엔드 개발자 입니다!
 #### 📝 Currently Woring On : *[전성태의 웹 포트폴리오](https://github.com/poqop721/myWebsite)*
 #### 🖋️ Currently Studying : <img align=center src="https://img.shields.io/badge/JavaScript-8f8c8c?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;<img align=center src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=FFFFFF"/>&nbsp;<img align=center src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=Next.js&logoColor=000000"/>&nbsp;<img align=center src="https://img.shields.io/badge/CS:PintOS-ba9304?style=flat&logo=Linux&logoColor=ffffff"/>&nbsp;<img align=center src="https://img.shields.io/badge/Algorithm-FFA116?style=flat&logo=LeetCode&logoColor=ffffff"/>&nbsp;
-`JavaScript`, `CS - reminding pintOS`, `React/Next.js`, `Algorithm`
 <br>
 
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=poqop721&include_all_commits=false&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
