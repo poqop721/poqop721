@@ -7,7 +7,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoqop721&count_bg=%23f0a030&title_bg=%23515151&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true"/></a>
   
 #### ✊ 깊이 있는 개발자로 한걸음씩 성장중인 프론트엔드 개발자 입니다!
-#### 📝 Currently Woring On : *[전성태의 웹 포트폴리오](https://github.com/poqop721/myWebsite)*
+#### 📝 Currently Woring On :  *[Jeon_Shop](https://github.com/poqop721/Jeon_Shop)*
 #### 🖋️ Currently Studying : <img align=center src="https://img.shields.io/badge/JavaScript-8f8c8c?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;<img align=center src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=FFFFFF"/>&nbsp;<img align=center src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=Next.js&logoColor=000000"/>&nbsp;<img align=center src="https://img.shields.io/badge/CS:PintOS-ba9304?style=flat&logo=Linux&logoColor=ffffff"/>&nbsp;<img align=center src="https://img.shields.io/badge/Algorithm-FFA116?style=flat&logo=LeetCode&logoColor=ffffff"/>&nbsp;
 <br>
 
